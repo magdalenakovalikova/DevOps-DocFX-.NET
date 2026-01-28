@@ -1,1 +1,1 @@
-"# DevOps-DocFX-.NET" 
+# DevOps-DocFX-.NET
